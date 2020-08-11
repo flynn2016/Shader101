@@ -3,11 +3,11 @@
 	Properties
 	{
 		_MainTex("Base texture", 2D) = "white" {}
+
 		_AmbientStrength("Ambient Strength",Range(0,1.0)) = 0.1
-
-
 		_DiffStrength("Diff Strength",Range(0,1.0)) = 0.1
 		_SpecStrength("Spec Strength",Range(0,5.0)) = 0.1
+
 		_SpecPow("Specular Pow",Range(0.1,256)) = 1
 		_Brightness("Brightness",Range(0,2.0)) = 0.5
 	}
