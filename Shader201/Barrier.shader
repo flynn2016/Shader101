@@ -1,4 +1,4 @@
-Shader "CloverSwatch/BinstonBarrier"
+Shader "Shader201/WinstonBarrier"
 {
 	Properties
 	{
